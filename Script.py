@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b>Hello Nanba {}👋
-My Name Is <a href=https://t.me/{}>{}</a>, I Can Provide Movies,\n\n👨‍💻 Developer : <a href='https://t.me/CpsHD « Vɪʟʟᴀɪɴ »</a></b>"""
+My Name Is <a href=https://t.me/{}>{}</a>, I Can Provide Movies,\n\n👨‍💻 Developer : <a href='https://t.me/CpsHD « JSNP »</a></b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -9,7 +9,7 @@ My Name Is <a href=https://t.me/{}>{}</a>, I Can Provide Movies,\n\n👨‍💻 
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: V.2.0 [Super]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Cps HD is a open source project. 
 - Source - https://t.me/CpsHD
