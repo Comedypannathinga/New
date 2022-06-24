@@ -12,7 +12,7 @@ My Name Is <a href=https://t.me/{}>{}</a>, I Can Provide Movies,\n\n👨‍💻 
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: V.2.0 [Super]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Cps HD is a open source project. 
-- Source - https://t.me/CpsHD
+- Source - https://t.me/CpsHD/CpsHD
 
 <b>DEVS:</b>
 - <a href=https://t.me/CpsHD>ComedyPannathingaSir</a>"""
